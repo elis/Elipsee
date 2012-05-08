@@ -22,12 +22,12 @@ $('.no-title-attribute').elipsee({fullTitle: false});
 // This setting will not add the title="" attribute containing
 // the full orginal text
 ```
+
 Notes
 ========
 
 The plugin does not support HTML tags - it will assume text-only mode
 and will delete any tags within the treated element.
-
 
 Demo / Fiddle
 =========
