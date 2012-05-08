@@ -28,6 +28,12 @@ Notes
 The plugin does not support HTML tags - it will assume text-only mode
 and will delete any tags within the treated element.
 
+
+Demo / Fiddle
+=========
+
+To test and play around head to: http://jsfiddle.net/QrmcS/2/
+
 License
 ========
 
